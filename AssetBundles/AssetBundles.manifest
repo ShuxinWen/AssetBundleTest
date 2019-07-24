@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3159451218
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ab.unity3d
+      Dependencies: {}
