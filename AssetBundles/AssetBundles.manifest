@@ -1,10 +1,7 @@
 ManifestFileVersion: 0
-CRC: 4113766478
+CRC: 1377046203
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: ready.unity3d
-      Dependencies: {}
-    Info_1:
-      Name: start.unity3d
+      Name: allui.unity3d
       Dependencies: {}
